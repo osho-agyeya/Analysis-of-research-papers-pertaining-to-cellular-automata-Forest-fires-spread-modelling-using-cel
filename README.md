@@ -1,1 +1,1 @@
-# Analysis-of-research-papers-pertaining-to-cellular-automata-Forest-fires-spread-modelling-using-cel
+# ANALYSIS OF RESEARCH PAPER PERTANING TO CELLULAR AUTOMATA FOR PREDICTING FOREST FIRES
